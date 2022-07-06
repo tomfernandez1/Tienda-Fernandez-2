@@ -9,7 +9,7 @@ const NavBar = () => {
                     <span className="navbar-toggler-icon"></span>
                 </button>
                 <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
-                    <div className="navbar-nav">
+                    <div className="navbar-nav d-flex flex-row">
                         <a className="nav-link active" aria-current="page" href="#">Inicio</a>
                         <a className="nav-link active" href="#">Productos</a>
                         <a className="nav-link active" href="#">¿Como Comprar?</a>
