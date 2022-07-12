@@ -23,8 +23,6 @@ const ItemCount = ({stock, initial, onAdd}) => {
             onClick={() => {
                 if (count <= stock && stock>0) {
                     onAdd(count);
-                    stock = stock - count;
-                    console.log(stock);
                 } 
             }}>Agregar al carrito</button>
     </div>
