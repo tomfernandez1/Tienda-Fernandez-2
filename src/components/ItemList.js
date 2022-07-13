@@ -1,6 +1,7 @@
-import React from 'react';
+/*import React from 'react';
 import Item from './Item';
 import { useState, useEffect } from 'react';
+
 
 const ItemList = ({items}) => {
 
@@ -30,7 +31,8 @@ const ItemList = ({items}) => {
         }</div>
   );
 };
+*/
 
-export default ItemList;
+//export default ItemList;
 
 

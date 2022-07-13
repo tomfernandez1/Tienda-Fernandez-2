@@ -15,7 +15,7 @@ const ItemListContainer = ({greeting}) => {
                     stock={5} 
                     initial={1} 
                     onAdd={onAddCallback} className="card" style={{width: "18rem"}} />
-                <ItemList items={products} />
+                
             </div>
         </div>
     </div>;
